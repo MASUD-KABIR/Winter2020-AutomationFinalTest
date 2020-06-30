@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12751" started-at="2020-06-09T03:13:58Z" finished-at="2020-06-09T03:14:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12751" started-at="2020-06-09T03:13:58Z" finished-at="2020-06-09T03:14:11Z">
+      <class name="session5.CRMTest">
+        <test-method status="PASS" signature="inIt()[pri:0, instance:session5.CRMTest@26653222]" name="inIt" is-config="true" duration-ms="6013" started-at="2020-06-09T03:13:58Z" finished-at="2020-06-09T03:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:session5.CRMTest@26653222]" name="loginTest" duration-ms="5984" started-at="2020-06-09T03:14:04Z" finished-at="2020-06-09T03:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:session5.CRMTest@26653222]" name="tearDown" is-config="true" duration-ms="728" started-at="2020-06-09T03:14:10Z" finished-at="2020-06-09T03:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- session5.CRMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
